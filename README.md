@@ -1,2 +1,2 @@
 # feathers-frontend
-interface to interact with the featers server
+interface to interact with the feathers server
