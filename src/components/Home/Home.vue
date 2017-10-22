@@ -1,27 +1,21 @@
 <template lang="html">
-  <section class="float">
-    <section class="main-content-port">
-      <h2>Contacts</h2>
-    </section>
+  <section>
+    <h4>Home</h4>
   </section>
 </template>
 
 <script>
-
 import { mapGetters }               from "vuex";
-
+import moment                       from "moment";
 
 export default {
   data(){
-  },
-  methods: {
-  },
-  mounted(){
+    return {
+    }
   }
 }
 </script>
 
 <style lang="css">
-
 
 </style>
